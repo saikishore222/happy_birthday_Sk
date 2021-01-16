@@ -1,0 +1,29 @@
+body {
+  background-color: violet;
+}
+#footer {
+  border: 1px solid #dedede;
+  position: relative;
+  top: 101px;
+  right: 8px;
+  width: 102%;
+  background-color: turquoise;
+}
+#head p {
+  font-size: 25px;
+  font-weight: bold;
+  color: revert;
+  text-align: center;
+}
+#footer p {
+  text-align: center;
+  font-size: 29px;
+  font-weight: bold;
+  color: crimson;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
